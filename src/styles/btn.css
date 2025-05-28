@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+.btn {
+	@apply inline cursor-pointer;
+}
+
+.btn--link {
+	@apply text-white !font-light;
+}

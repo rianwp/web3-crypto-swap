@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-	title: 'EZwap',
+	title: 'Tokens',
 	description: 'Easy crypto swap app',
 }
 
