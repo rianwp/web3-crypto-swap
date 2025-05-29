@@ -19,7 +19,7 @@ const Header = () => {
 	return (
 		<nav
 			className={cn(
-				'w-full flex flex-row px-4 md:px-8 py-10 justify-between font-medium h-navbar'
+				'w-full flex flex-row px-4 md:px-8 py-10 justify-between font-medium h-navbar items-center'
 			)}
 		>
 			<ListWrapper>
